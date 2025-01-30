@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: #1E1E1E;
+	width: 1000px;
+	height: 400px;
+}
+
+h2{
+	margin: 0;
+	font-size: 100px;
+	text-align: center;
+}
+p{
+	text-align: center;
+}
